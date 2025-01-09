@@ -79,7 +79,9 @@ Mata kuliah : Bahasa pemrograman <p>
               view.display_table(process.get_data_list())
 ```
 
+
 Output Program
+
 ![Gambar 1](https://github.com/user-attachments/assets/6e19e9e1-e9ef-4902-bf75-e7dbe5434929)
 
 
